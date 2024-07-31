@@ -14,13 +14,13 @@ const Navbar = (props) => {
                             <a className="nav-link active text-white" aria-current="page" href="#">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-light" href="#">About</a>
+                            <a className="nav-link text-muted" href="#">About</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-light" href="#">Service</a>
+                            <a className="nav-link text-muted" href="#">Service</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-light" href="#">Contact</a>
+                            <a className="nav-link text-muted" href="#">Contact</a>
                         </li>
                     </ul>
                 </div>
